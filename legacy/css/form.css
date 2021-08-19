@@ -1,0 +1,47 @@
+.center{
+    justify-content: center;
+    display: flex;
+    
+
+
+
+}
+
+
+form{
+
+    margin: 0%;
+    padding: 1.1%;
+
+
+    border: 3px #fff solid;
+    border-radius: 30px;
+
+    font-family: 'Oxygen';
+    
+}
+
+
+.button {
+    /* Para posicionar os botões para a mesma posição dos campos de texto */
+    margin-left: 40%;
+    background-color: transparent;
+}
+
+button{ 
+    color: #fff;
+    background-color: transparent;
+    border: 3px #fff solid;
+    border-radius: 50px;
+    margin-top: 10px; 
+    padding: 5%;
+}
+
+label {
+    font-family: 'Oxygen';
+    color: #fff;
+    font-size: 28px;
+}
+
+
+

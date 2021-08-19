@@ -1,0 +1,15 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.p-3 {
+    padding: 1rem !important;
+}
+
+.langbtn{
+
+    padding: 25px;
+}

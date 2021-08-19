@@ -1,0 +1,215 @@
+
+
+.license{
+
+    
+    font-family: 'Oxygen', cursive;
+
+    position: fixed;
+
+
+    padding: 1.35%;
+    
+
+    display: flex;
+
+    
+    justify-content: center;
+    
+
+    
+    margin-top: 3%;
+    
+    margin-left: .5em;
+    margin-right: .5em;
+
+    border-radius:100px;
+    border-color: #ffffff;
+    background-color: transparent;
+    color: #ffffff;
+    border:1px solid
+}
+
+.pd{
+    font-family: 'Oxygen', cursive;
+    text-decoration: none;
+    color: #ffffff;
+    text-shadow: none;
+    font-size: 15px;
+}
+
+/*
+.present{  
+    margin-top: 30px;
+    margin-left: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    width: 25%;
+}
+
+*/
+
+.win{
+
+    display: flex;
+    justify-content: left;
+    margin-top: 20px; 
+    margin-left: 20px;
+
+    text-decoration: none;
+
+    font-size: 50px;
+
+    font-family: 'Oxygen', cursive; 
+
+    text-shadow: 1px 1px 2px #9037CC, 0 0 1em #9037CC, 0 0 0.2em #9037CC;
+
+}
+
+.win2{
+
+    display: flex;
+    justify-content: left;
+    margin-top: 20px; 
+    margin-left: 50px;
+
+    font-weight: bold 900;
+    text-decoration: none;
+
+    font-size: 30px;
+
+    
+
+    
+}
+
+
+.apresent{
+display:flex;
+justify-content: center;
+word-break: normal;
+margin-top:1.5% ;
+text-align: center;
+color: #fff;
+font-size: 30px;
+margin:5px;
+padding: 5px;
+
+}
+
+.dest{
+display: block;
+font-family:  'Josefin Sans', cursive;;
+justify-content: center;
+word-break: normal;
+margin-top:1.5% ;
+text-align: center;
+color: #fff;
+font-size: 30px;
+margin:5px;
+padding: 5px;
+
+
+}
+
+.subli{
+
+    text-shadow: 1px 1px 2px #9037CC, 0 0 1em #9037CC, 0 0 0.2em #9037CC;
+    font-size: 30px;
+    margin-left: 10px;
+    
+    color: #fff;
+}
+
+.nota{
+
+    display: flex;
+    justify-content: left;
+    font-family: 'Montserrat', cursive;
+    margin: 0.3%;
+}
+
+.rol{
+
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    margin-left:0.8%;
+    border:1px #fff solid;
+    border-radius: 50px;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.pop{
+
+    font-family: 'Poppins', cursive;
+    font-size: 20px;
+    margin: 0.5%;
+    text-align: center;
+}
+
+.pluma{
+
+    padding: 4px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: right;
+    border:1px #fff solid;
+    border-radius: 50px;
+    align-items: flex-start;
+    background-color: transparent;
+    color: #fff;
+
+}
+
+
+div.menu-bar ul ul {
+    display: none;  
+
+    margin-bottom: auto;
+}
+  
+  div.menu-bar li:hover > ul {
+    display:flex;
+    
+  }
+  
+
+
+.usrimg{
+
+    width: 50px;
+    height: 50px;
+    border-radius: 10000px;
+
+}
+
+.oside{
+    padding: 5px;
+}
+
+.uniclass{
+    width: 15px;
+    height: 15px
+}
+
+
+.rework{
+    display: flex;
+    margin-left: auto;
+    text-align: right;
+    flex-direction: row;
+    align-items: center;
+}
+
+.padrao{
+    margin: 10px;
+    font-size: 40px;
+    text-align: center;
+}

@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital@1&display=swap');
+
+
+
+*{
+    cursor: url(https://raw.githubusercontent.com/yeyushengfan258/Lyra-Cursors/0dad0a8ad1a39446694c8e7b490f05f8589b154d/src/LyraR-svg/default.svg),auto;
+
+
+}
+
+
+html{
+
+    background-image: url(../extra/Gnomish.jpg) ;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+   
+
+
+}
+
+header {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(-50deg,rgba(0, 0, 0.8) 30%,#7401df 55%);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 70px;
+    color: #ffffff;
+    font-family: 'Josefin Sans', cursive;
+    text-align: center;
+    
+}
+
+
+
+h2 {
+    padding-top: 1%;
+    font-family: 'Josefin Sans', cursive;
+    color: #ffffff; text-align: center;
+    font-size: 60px;
+
+}
+
+h3 {
+
+    font-family: 'Cormorant Garamond', cursive;
+    color: #ffffff; text-align: center;
+    font-size: 18px;
+
+}
+
+h4{
+    color: #fff;
+}
+
+
+
+p{font-family: 'Cormorant Garamond', cursive; color: #ffffff;}
+
+
+a{
+    
+    text-decoration: underline;
+    color: #ffffff;
+    /*text-shadow: 1px 1px 2px blue, 0 0 1em #6874E8, 0 0 0.2em #6874E8;*/
+    cursor: url(https://raw.githubusercontent.com/yeyushengfan258/Lyra-Cursors/0dad0a8ad1a39446694c8e7b490f05f8589b154d/src/LyraR-svg/pointer.svg),auto;
+
+}
+
+hr{color:#fff}
+
+footer{
+    
+
+    font-family: 'Oxygen', cursive;
+
+    font-size: 14px;
+    
+
+    text-align: center;
+    
+    word-break:normal;
+
+    
+
+    
+    justify-content: center;
+    
+    background: linear-gradient(-50deg,rgba(0, 0, 0.8) 30%,#7401df 55%);
+
+    padding: 15px;
+
+
+
+    
+
+    
+    
+}
+
+.di{
+    font-size: 30px;
+}
+
+.nm{
+    text-decoration: line-through;
+}
+
+
+/**/
+
+.center{
+    justify-content: center;
+    display: flex;
+    
+
+
+
+}
+
+
+form{
+
+    margin: 0%;
+    padding: 1.1%;
+
+
+    border: 3px #fff solid;
+    border-radius: 30px;
+
+    font-family: 'Oxygen';
+    
+}
+
+
+.break{
+    margin: 1e;
+
+}
+
+.dt{
+    border-top: dotted;
+    color: #fff;
+}
+
+.text{
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 150%;
+}
+
+.bd{
+    font-weight: bold;
+}
+
+.st{
+    margin: 1%;
+    font-size: 30px;
+    font-family: 'STIX Two Text', serif;
+    color:#fff
+    
+    
+}
+
+.bt{
+    text-align: center;
+    border: #fff solid;
+    padding: 0%;
+}
+
+
+
+
+
+
+
+
+
+
